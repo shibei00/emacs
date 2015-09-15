@@ -1,4 +1,4 @@
 emacs
 =====
 
-emacs configuration files and .emacs file
+My Emacs configuration file and .emacs.d files
